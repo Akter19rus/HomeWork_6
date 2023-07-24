@@ -92,4 +92,4 @@ public class Main {
             System.out.println(two + "*" + i + "=" + answer);
         }
     }
-}
+}          //Эта строка не несет какого то смысла
